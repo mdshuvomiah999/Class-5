@@ -1,0 +1,57 @@
+.typography {
+  color: #dff5ff;
+  width: 75%;
+  background-color: #5356ff;
+  padding: 20px;
+  margin: 100px auto;
+  border-radius: 70px 0px 50px 0px;
+}
+
+.typography h1 {
+  /* text-decoration: underline;
+  text-underline-offset: 10px; */
+  color: whitesmoke;
+  text-align: center;
+  border-bottom: 3px solid #67c6e3;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  /* font-family: "Merriweather", serif; */
+}
+.typography p {
+  text-align: justify;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  word-spacing: 0.1px;
+  letter-spacing: 0.1px;
+  font-size: 17px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(21, 24, 209, 0.384);
+  padding: 15px;
+  margin: 18px auto;
+  border-radius: 10px;
+}
+
+.typography a:link,
+a:visited {
+  color: whitesmoke;
+  background-color: #e91d72;
+  display: inline-block;
+  padding: 7px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font: bold;
+  font-family: "Merriweather", sans-serif;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.typography a:hover {
+  background-color: rgba(232, 28, 113, 0.762);
+}
+.typography a:active {
+  background-color: #67c6e3;
+}

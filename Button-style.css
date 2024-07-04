@@ -1,0 +1,607 @@
+/* This is bolg button div  */
+.button-blog {
+  color: #000000;
+  background-color: whitesmoke;
+  /* width: 100%; */
+  padding: 20px;
+  border-radius: 20px;
+}
+.button-blog h1 {
+  color: #000000;
+  background-color: rgb(39, 255, 255);
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px 5px 40px 5px;
+  border-radius: 20px 0px 15px 0px;
+  font-family: "Rakkas", serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1.3px;
+  word-spacing: 4px;
+  font-size: 2rem;
+}
+.button-blog p {
+  color: rgb(0, 0, 0);
+  background-color: rgba(217, 234, 229, 0.308);
+  font-size: 1em;
+  font-family: "Roboto Slab", serif;
+  text-align: justify;
+
+  padding: 10px;
+}
+
+/* This are button list  */
+.List-of-Button h1 {
+  font-family: "Bevan", serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  text-align: left;
+  color: crimson;
+  background-color: mediumturquoise;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 3px solid pink;
+  border-width: 20px;
+  border-radius: 20px;
+}
+.List-of-Button {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+.List-of-Button a {
+  text-decoration: none;
+  background-color: #1dbf73;
+  padding: 9.1px 30px 9.1px 30px;
+  border-radius: 0.8px;
+  /* background-attachment: scroll; */
+  display: inline-block;
+  /* margin: 100px 0px; */
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Rakkas", serif;
+  color: #ffffff;
+  border: 0.8px solid #1dbf73;
+  text-align: center;
+  margin: 10px;
+}
+
+.List-of-Button a:hover {
+  background-color: white;
+  color: #1dbf73;
+}
+.List-of-Button a:active {
+  color: #1dbf73;
+  outline: 0.8px solid #1dbf73;
+}
+
+.List-of-Button #Free {
+  background-color: white;
+  color: #1dbf73;
+}
+
+#Free:hover {
+  background-color: #1dbf73;
+  color: white;
+}
+#Free:active {
+  color: white;
+  outline: 0.8px solid #1dbf73;
+}
+
+/* Thsi is second button project  */
+
+.button-02 {
+  text-align: center;
+}
+.Buttons:link {
+  color: #5755fe;
+  text-decoration: none;
+  display: inline-block;
+  background-color: white;
+  border: 0.8px solid #5755fe;
+  padding: 9px 50px 9px 50px;
+  margin: 10px;
+  font-family: "Lexend", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 5px;
+}
+.Buttons:hover {
+  background-color: rgb(88, 85, 254);
+  color: white;
+}
+.Buttons:active {
+  color: white;
+  background-color: rgba(88, 85, 254, 0.8);
+  outline: 0.8px solid #000000;
+}
+
+/* This is button of freelancer  */
+
+.button03 {
+  text-align: center;
+}
+.button03 #Hire {
+  background-color: #e60278;
+  color: white;
+  text-align: center;
+  padding: 9px 50px 9px 50px;
+  font-family: "Lexend", sans-serif;
+  font-weight: 500;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 15px;
+}
+
+.button03 #Hire:hover {
+  background-color: rgba(230, 2, 120, 0.747);
+}
+.button03 #Hire:active {
+  color: white;
+  outline: 1px solid forestgreen;
+}
+
+.button03 #Earn {
+  color: #000000;
+  text-decoration: none;
+  background-color: rgb(255, 255, 255);
+  padding: 9px 40px 9px 40px;
+  display: inline-block;
+  margin: 20px;
+  border: 0.9px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  font-family: "Lexend", sans-serif;
+}
+.button03 #Earn:hover {
+  color: #ff0000;
+}
+.button03 #Earn:active {
+  outline: 0.8px solid salmon;
+}
+
+/* This is button 04 dic  */
+
+.button04 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.button04 #order:link,
+#order:visited {
+  text-decoration: none;
+  display: inline-block;
+  margin: 25px;
+  background-color: gold;
+  padding: 7.1px 19px 7.1px 19px;
+  text-align: center;
+  font-family: "Lexend" serif;
+  font-weight: 500;
+  border-radius: 15px;
+  color: black;
+}
+
+.button04 #order:hover {
+  background-color: rgba(255, 217, 0, 0.926);
+}
+.button04 #order:active {
+  outline: 0.8px solid black;
+  color: rgba(0, 0, 0, 0.752);
+}
+.button04 #cancel:link,
+#cancel:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Lexend" serif;
+
+  font-weight: 400;
+  background-color: #f8de22;
+  padding: 7px 18px 7px 18px;
+  border-radius: 16px;
+  text-align: center;
+  color: black;
+}
+
+.button04 #cancel:hover {
+  background-color: rgba(248, 223, 34, 0.838);
+}
+
+#cancel:active {
+  outline: 0.9px solid #000000;
+}
+
+/* This is butoton 05 div  */
+
+.button05 {
+  text-align: center;
+}
+
+.button05 #sign:link,
+#sign:visited {
+  text-decoration: none;
+  color: white;
+  background-color: #ff6600;
+  padding: 7px 25px 7px 25px;
+  font-family: "Roboto Slab", serif;
+  border-radius: 16px;
+  display: inline-block;
+  margin: 15px;
+}
+
+#sign:hover {
+  background-color: rgba(173, 75, 10, 0.849);
+}
+#sign:active {
+  outline: 0.9px solid black;
+  background-color: rgba(255, 102, 0, 0.907);
+}
+
+#search:link,
+#search:visited {
+  text-decoration: none;
+  background-color: #ff6600;
+  padding: 8px 40px 8px 40px;
+  color: white;
+  font-family: "Roboto Slab", serif;
+  font-weight: 500;
+  border-radius: 30px;
+  letter-spacing: 0.5px;
+}
+#seacrh:active {
+  background-color: rgb(207, 92, 15);
+  outline: 0.8px solid rgba(0, 0, 0, 0.805);
+}
+
+.button-slide-INSIDE {
+  color: #ff0000;
+  border: 2px solid red;
+  border-radius: 0px;
+  padding: 18px 36px;
+  text-align: center;
+  display: inline-block;
+  font-family: "Roboto Slab", serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 #d80286;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+}
+
+.button-slide-INSIDE:hover {
+  box-shadow: inset 0 0 0 50px #d80286;
+  color: white;
+}
+
+/* This is button 06 div  */
+
+.button-06 {
+  text-align: center;
+}
+#shop {
+  text-decoration: none;
+  color: #162944;
+  font-family: "Lexend", sans-serif;
+  font-weight: 400;
+  border: 1.6px solid black;
+  padding: 8.5px 40px 8.5px 40px;
+  border-radius: 25px;
+  display: inline-block;
+  margin: 20px;
+  letter-spacing: 1px;
+  box-shadow: inset 0 0 0 0 #162944;
+  /* -webkit-transition: ease-out 0.3s; */
+  /* -moz-transition: ease-out 0.3s; */
+  transition: 0.3s;
+}
+#shop:hover {
+  /* box-shadow: inset 0 0 0 50px #162944; */
+  /* box-shadow: inset 40px 500px 0 0 #d80286; */
+  box-shadow: inset 400px 0 0 0 #000000;
+  color: white;
+}
+#shop:active {
+  outline: 1px solid orangered;
+}
+
+#explore {
+  text-decoration: none;
+  font-family: "Lexend", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid black;
+  padding: 8px 35px 8px 35px;
+  color: #162944;
+  border-radius: 20px;
+  letter-spacing: 1.3px;
+  box-shadow: inset 0 0 0 0 black;
+  transition: 0.4s;
+}
+#explore:hover {
+  box-shadow: inset 0 0 0 50px black;
+  color: white;
+}
+
+.slide:link,
+.slide:visited {
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px;
+  font-family: "Lexend", sans-serif;
+  font-weight: 500;
+  background-color: #003087;
+  color: white;
+  padding: 8.1px 30px 8.1px 30px;
+  border-radius: 20px;
+  box-shadow: inset 0 0 0 0 #d80286;
+  transition: 0.4s;
+}
+
+#payment {
+  padding: 8.2px 30px 8.2px 30px;
+  border-radius: 5px;
+  box-shadow: inset 0 0 0 0 crimson;
+  transition: 0.3s;
+}
+#payment:hover {
+  /* box-shadow: inset 400px 0 0 0 rgb(139, 0, 104); */
+  /* box-shadow: inset 0 0 0 0 rgb(139, 0, 104); */
+  box-shadow: inset 40px 500px 0 0 #d80286;
+}
+.slide:hover {
+  /* background-color: #0070e0;  */
+  box-shadow: inset 40px 500px 0 0 #0070e0;
+  /* box-shadow: inset 0 0 500px 40px #0070e0; */
+}
+.slide:active {
+  outline: 2px solid rgba(0, 47, 135, 0.768);
+}
+
+/* This is button 07 div  */
+
+.button-07 {
+  text-align: center;
+}
+#learn {
+  text-decoration: none;
+  color: white;
+  background-color: #0071e3;
+  padding: 11px 21px 11px 21px;
+  display: inline-block;
+  margin: 20px;
+  border-radius: 30px;
+  font-family: "Lora", serif;
+  font-style: normal;
+}
+#learn:hover {
+  background-color: rgba(0, 113, 227, 0.852);
+}
+
+#buy-apple {
+  text-decoration: none;
+  color: #0071e3;
+  border: 2px solid #0071e3;
+  padding: 11px 20px 11px 20px;
+  border-radius: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+#buy-apple:hover {
+  background-color: #0071e3;
+  color: white;
+}
+#buy-apple:active {
+  background-color: rgba(0, 113, 227, 0.788);
+}
+
+/* This is button 8 div  */
+
+.button-08 {
+  text-align: center;
+}
+
+#continue {
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  background-color: black;
+  color: white;
+  padding: 9px 30px 9px 30px;
+  border-radius: 23px;
+}
+
+#continue:hover {
+  background-color: rgba(0, 0, 0, 0.647);
+}
+#continue:active {
+  outline: 1px solid black;
+}
+#continue:link,
+#continue:visited {
+  color: rgb(255, 0, 255);
+}
+
+#where {
+  text-decoration: none;
+  background-color: #2189ff;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  font-family: "Lora", serif;
+  border-radius: 30px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+#where:hover {
+  background-color: rgba(33, 137, 255, 0.851);
+}
+#where:active {
+  border: 3px dotted yellow;
+}
+
+/* This is button 9 div  */
+
+.button-09 {
+  text-align: center;
+  font-family: "Lora", serif;
+  font-weight: 400;
+}
+
+#learn1 {
+  color: white;
+  background-color: #087ea4;
+  display: inline-block;
+  margin: 20px;
+  text-decoration: none;
+  padding: 10px 25px 10px 25px;
+  border-radius: 24px;
+  font-family: "Lora", serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+#learn1:hover {
+  background-color: rgba(8, 125, 164, 0.771);
+}
+
+#api:link,
+#api:visited {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Roboto Slab", serif;
+  font-weight: 500;
+  padding: 10px 24px 10px 24px;
+  background-color: #f1f1f1;
+  /* border: 0.1px solid black; */
+  color: #4b6884;
+  border-radius: 24px;
+}
+#api:hover {
+  background-color: rgba(27, 26, 26, 0.09);
+}
+#api:active {
+  background-color: white;
+}
+
+#get:link,
+#get:visited {
+  color: white;
+  background-color: black;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 12px 16px 12px 16px;
+  border-radius: 10px;
+}
+#get:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#next {
+  color: black;
+  background-color: #f1f1f1;
+  color: #4b6884;
+  text-decoration: none;
+  padding: 12px 16px 12px 16px;
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  font-size: 14px;
+  /* border: 0.2px solid black;
+  border-radius: 10px; */
+}
+#next:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* This is button 10 div  */
+
+.button-10 {
+  text-align: center;
+}
+#why:link,
+#why:visited {
+  background-color: #42b883;
+  text-decoration: none;
+  color: white;
+  padding: 10px 22px 10px 22px;
+  display: inline-block;
+  margin: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+#why:hover {
+  background-color: #42b883ca;
+}
+
+#get-2 {
+  background-color: #f1f1f1;
+  color: #4b6884;
+  padding: 8px 18px 8px 18px;
+  text-decoration: none;
+  font-family: "Roboto Slab", serif;
+  margin: 20px;
+}
+
+#get-2:hover {
+  background-color: rgba(27, 26, 26, 0.09);
+}
+
+#install:link,
+#install:visited {
+  text-decoration: none;
+  color: #4b6884;
+  background-color: #f1f1f1;
+  padding: 8px 18px 8px 18px;
+  font-family: "Roboto Slab", serif;
+  display: inline-block;
+  margin: 20px;
+}
+#install:hover {
+  background-color: rgba(27, 26, 26, 0.09);
+}
+
+/* This is button 11 div  */
+.button-11 {
+  text-align: center;
+}
+
+#doc:link,
+#doc:visited {
+  color: white;
+  background-color: #ea2845;
+  padding: 14px 30px 14px 30px;
+  text-decoration: none;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  border-radius: 16px;
+  display: inline-block;
+  margin: 20px;
+  transition: 0.4s;
+  text-align: center;
+}
+#doc:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid #ea2845;
+}
+
+#source {
+  text-decoration: none;
+  color: black;
+  border: 0.1px solid black;
+  padding: 13px 27px 13px 27px;
+  border-radius: 14px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+#source:hover {
+  color: #ea2845;
+  border: 1px solid #ea2845;
+}

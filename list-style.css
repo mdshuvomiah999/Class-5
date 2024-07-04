@@ -1,0 +1,30 @@
+body {
+  background-color: #27374d;
+  color: whitesmoke;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2em;
+}
+
+ul {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  width: 500px;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+ul li {
+  list-style: none;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+ul li:hover {
+  background-color: rgba(220, 20, 60, 0.625);
+}
+.React {
+  /* display: none; */
+  /* visibility: hidden; */
+}

@@ -1,0 +1,27 @@
+body {
+  color: whitesmoke;
+  background-color: #f7418f;
+  font-family: "Playfair Display", serif;
+  font-size: 2rem;
+}
+
+ol {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 500px;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 100px auto;
+}
+
+ol li {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  list-style: none;
+  cursor: pointer;
+}
+
+ol li:hover {
+  background-color: #8294c4;
+}

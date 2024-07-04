@@ -1,0 +1,25 @@
+a:link,
+:visited {
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  background-color: black;
+  color: aliceblue;
+  padding: 7.5px 26.5px;
+  text-transform: uppercase;
+  word-spacing: 3px;
+  /* letter-spacing: 0.5;  */
+  /* border-radius: 3px; */
+  border-radius: 35px;
+  /* font-size: 1px;
+  font-size: 1rem;
+  font-size: 1rem; */
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+a:hover {
+  background-color: orangered;
+}
+a:active {
+  background-color: rgba(255, 68, 0, 0.779);
+}
